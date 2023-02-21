@@ -2886,7 +2886,6 @@ header {
 }
 .bx-controls-direction {
   width: 100%;
-  display: none;
 }
 .bx-controls .bx-prev {
   left: 0;

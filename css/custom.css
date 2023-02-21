@@ -26,3 +26,10 @@
     width: 100%;
     height:100%;
 }
+
+.blog-entry .bx-controls{
+    display: none;
+}
+.bx-controls{
+    display: none;
+}
